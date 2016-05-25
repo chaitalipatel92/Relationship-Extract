@@ -66,7 +66,7 @@ public class TestingTool {
 
 //        Configuration cfg = new Configuration();
         try {
-//            Template template = cfg.getTemplate("src/helloworld.ftl");
+//            Template template = cfg.getTemplate("src/outcome.ftl");
             InitializeLists il = new InitializeLists();
             il.populateLists();
 //            Writer file = new FileWriter(new File("D:/ftl/blog-template-output.txt"));
